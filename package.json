@@ -1,0 +1,13 @@
+{
+  "name": "nx-watch-issue-01",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {},
+  "author": "kim",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
