@@ -7,7 +7,7 @@
       "executor": "@nrwl/js:tsc",
       "outputs": ["{options.outputPath}"],
       "options": {
-        "outputPath": "dist/libs/b-lib",
+        "outputPath": "./../dist/libs/b-lib",
         "main": "libs/b-lib/src/index.ts",
         "tsConfig": "libs/b-lib/tsconfig.lib.json",
         "assets": ["libs/b-lib/*.md"]
