@@ -4,6 +4,7 @@
   "projects": {
     "a-lib": "libs/a-lib",
     "app": "apps/app",
-    "app-e2e": "apps/app-e2e"
+    "app-e2e": "apps/app-e2e",
+    "b-lib": "libs/b-lib"
   }
 }

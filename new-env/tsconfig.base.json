@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@new-env/a-lib": ["libs/a-lib/src/index.ts"]
+      "@new-env/a-lib": ["libs/a-lib/src/index.ts"],
+      "@new-env/b-lib": ["libs/b-lib/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
