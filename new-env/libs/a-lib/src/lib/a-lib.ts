@@ -1,3 +1,7 @@
+import { bLib } from '../../../b-lib/src';
+
 export function aLib(): string {
-  return 'a-lib';
+  const b = bLib();
+
+  return 'a-lib' + b;
 }
