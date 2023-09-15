@@ -1,6 +1,6 @@
 import styles from './index.module.css';
-import { aLib } from '../../../libs/a-lib/src';
-import { bLib } from '../../../libs/b-lib/src';
+import { aLib } from '@new-env/a-lib';
+import { bLib } from '@new-env/b-lib';
 
 export function Index() {
   /*
